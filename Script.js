@@ -25,7 +25,7 @@ const body = document.querySelector("body");const swalst = Swal.mixin({timer: 23
          } else {
            await swals.fire('Ups!', 'Nama tidak boleh kosong atau lebih dari 10 karakter, ya!');inipesan();
     }*/
-    vketikutama="VC É MUITO ESPECIAL PARÁ MIN 🥰";
+    vketikutama="FELIZ ANIVERSÁRIO LAIS 🤩";
     mulainama();
   }
 
