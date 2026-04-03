@@ -25,7 +25,7 @@ const body = document.querySelector("body");const swalst = Swal.mixin({timer: 23
          } else {
            await swals.fire('Ups!', 'Nama tidak boleh kosong atau lebih dari 10 karakter, ya!');inipesan();
     }*/
-    vketikutama="NAMORA COMIGO AMAIA?? 😊";
+    vketikutama="QUER SER MINHA AMIGA PODEROSA?? 😊";
     mulainama();
   }
 
